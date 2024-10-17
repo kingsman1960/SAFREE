@@ -9,7 +9,7 @@ Please refer to this repo installation/preparation [page](https://github.com/Exp
 
 ## Download safe T2V test data
 
-We upload our safe T2V meta (selected from [SafeSora](https://github.com/PKU-Alignment/safe-sora) benchmark) data on [Huggingface]().
+We upload our safe T2V meta (selected from [SafeSora](https://github.com/PKU-Alignment/safe-sora) benchmark) data [here](../datasets/) for easy setup.
 
 ## Running SAFREE with ZeroScopeT2V
 

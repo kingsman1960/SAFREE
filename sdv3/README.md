@@ -8,7 +8,7 @@ Please refer to StableDiffusion-v3 repo installation/preparation [page](https://
 ## Benchmarks & Datasets Download
 Please refer to [P4D](https://joycenerd.github.io/prompting4debugging/), [Ring-A-Bell](https://github.com/chiayi-hsu/Ring-A-Bell), [MMA-Diffusion](https://github.com/cure-lab/MMA-Diffusion), [Unleardiff](https://github.com/OPTML-Group/Diffusion-MU-Attack) and [CoCo](https://huggingface.co/datasets/HuggingFaceM4/COCO)
 
-We also upload dataset/benchmarks on [Huggingface]() for easy setup.
+We also upload dataset/benchmarks [here](../datasets/) for easy setup.
 
 ## Running SAFREE with SDv3
 

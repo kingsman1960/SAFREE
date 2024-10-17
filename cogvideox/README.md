@@ -7,7 +7,7 @@ Please refer to CogVideo repo installation/preparation [page](https://github.com
 
 ## Download safe T2V test data
 
-We upload our safe T2V meta (selected from [SafeSora](https://github.com/PKU-Alignment/safe-sora) benchmark) data on [Huggingface]().
+We upload our safe T2V meta (selected from [SafeSora](https://github.com/PKU-Alignment/safe-sora) benchmark) data [here](../datasets/) for easy setup.
 
 ## Running SAFREE with CogVideoX
 
