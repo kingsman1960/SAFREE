@@ -1,4 +1,4 @@
-# SAFREE: Training-Free and Adaptive Guard for Safe Text-to-Image and Video Generation
+# [ICLR 2025] SAFREE: Training-Free and Adaptive Guard for Safe Text-to-Image and Video Generation
 [![Project Website](https://img.shields.io/badge/Project-Website-blue)](https://safree-safe-t2i-t2v.github.io/)  [![arXiv](https://img.shields.io/badge/arXiv-2410.12761-b31b1b.svg)](https://arxiv.org/abs/2410.12761)
 
 
@@ -64,6 +64,6 @@ Please cite our paper if you use our models in your works:
 @article{yoon2024safree,
   title={SAFREE: Training-Free and Adaptive Guard for Safe Text-to-Image And Video Generation},
   author={Yoon, Jaehong and Yu, Shoubin and Patil, Vaidehi and Yao, Huaxiu and Bansal, Mohit},
-  journal={arXiv preprint arXiv:2410.12761},
-  year={2024}
+  journal={ICLR},
+  year={2025}
 }
