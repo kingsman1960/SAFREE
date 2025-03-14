@@ -1,5 +1,5 @@
 albumentations==1.4.14
-clip==1.0
+clip==0.1.0
 diffusers==0.29.0
 einops==0.3.0
 ftfy==6.2.3
@@ -10,7 +10,6 @@ onnxruntime==1.18.1
 opencv_python==4.10.0.84
 opencv_python_headless==4.10.0.84
 pandas==2.0.0
-Pillow==9.5.0
 Pillow==10.4.0
 progressbar33==2.4
 pydload==1.0.9
